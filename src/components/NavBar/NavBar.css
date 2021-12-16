@@ -1,0 +1,21 @@
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 4em;
+}
+
+section .MuiButton-root {
+  margin-right: 2em;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+}
+
+li {
+  list-style-type: none;
+}
+
